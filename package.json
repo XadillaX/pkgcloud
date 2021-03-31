@@ -33,7 +33,7 @@
     "morestreams":   "0.1.x",
     "pkginfo":       "0.2.x",
     "request":       "2.x.x",
-    "underscore":    "1.4.x",
+    "underscore":    "1.12.1",
     "utile":         "0.x.x"
   },
   "devDependencies": {
